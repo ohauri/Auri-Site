@@ -103,9 +103,9 @@ a:after {
 	margin-top: -10px;
 	padding-top:120px;
 	text-align:center;
-	background-attachment: relative;
+	background-attachment: absolute;
 	background-position: center center;
-	min-height: 700px;
+	min-height: 450px;
 	width: 100%;
 
     -webkit-background-size: 100%;
