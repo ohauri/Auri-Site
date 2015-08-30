@@ -23,7 +23,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Raleway";
+    font-family: "Work Sans";
     font-weight: 300;
     color: #333;
 }
@@ -100,7 +100,7 @@ a:after {
 	background-position: center center;
 	min-height: 700px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -127,7 +127,7 @@ a:after {
 	background-position: center center;
 	min-height: 800px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -154,7 +154,7 @@ a:after {
 	background-position: center center;
 	min-height: 440px;
 	width: 100%;
-	
+
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -266,7 +266,7 @@ a:after {
 	font-weight: 700;
 	text-align: left;
 	letter-spacing: 2px;
-	
+
 }
 
 .grid figcaption a {
@@ -349,7 +349,7 @@ a:after {
 	font-size: 20px;
     line-height: 28px;
     margin-bottom: 25px;
-	
+
 }
 
 .accordion-heading plus {
@@ -365,7 +365,7 @@ a:after {
 	color: white;
 	font-family: 'Lato', sans-serif;
 	font-size: 14px;
-	padding: 8px; 
+	padding: 8px;
 }
 
 .accordion-heading a {
@@ -412,5 +412,5 @@ a:after {
 	cursor: pointer;
 	color: white;
 	background-color: #16a085;
-	
+
 }
