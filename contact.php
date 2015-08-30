@@ -4,7 +4,7 @@ $field_email = $_POST['Mail'];
 $field_message = $_POST['Message'];
 
 
-$mail_to = 'YOUR_MAIL@GOES_HERE.com';
+$mail_to = 'pope.auri@gmail.com';
 $subject = '#Message# '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
@@ -25,7 +25,7 @@ if ($mail_status) { ?>
 }
 else { ?>
  <script language="javascript" type="text/javascript">
-  alert('Message sending failed. Please, send an email to YOUR_MAIL@GOES_HERE.com');
+  alert('Message sending failed. Please, send an email to pope.auri@gmail.com');
   window.location = 'index.html';
  </script>
 <?php
