@@ -24,7 +24,7 @@ body {
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Work Sans';
-    font-weight: 400;
+    font-weight: 300;
     color: #333;
 }
 
@@ -369,13 +369,13 @@ a:after {
 }
 
 .accordion-heading a {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 22px;
 	color: #333;
 }
 
 .accordion-heading a:hover {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Work Sans', sans-serif;
 	font-size: 22px;
 	color: #1abc9c;
 	text-decoration: none;
@@ -392,7 +392,7 @@ a:after {
 }
 
 .form-group label {
-	font-family: 'Raleway'; sans-serif;
+	font-family: 'Work Sans'; sans-serif;
 	font-size: 16px;
 	font-weight: 300;
 }
